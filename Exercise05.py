@@ -1,4 +1,5 @@
-print("working?")
+# Needs Refactoring 
+
 n = int(input())
 set1 = set(range(1, n + 1))
 set2 = set()
